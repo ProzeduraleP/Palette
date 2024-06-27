@@ -4,6 +4,6 @@ Rot
 Grün
 Blau
 Cyan
-
+Yellow
 
 Sind alles tolle Farben
